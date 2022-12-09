@@ -1,0 +1,6 @@
+1) create the app with the npx command line V
+
+2) create a hello world class componment V
+
+3) create a hello world function componment V
+
